@@ -1,0 +1,1 @@
+CREATE TABLE `Libro` ( `id`	INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,`titulo`	TEXT, `resumen`	TEXT, `autor`	TEXT, `fecha_publicacion`	TEXT, `tienda_1`	TEXT, `tienda_2`	TEXT, `tienda_3`	TEXT, `imagen`	TEXT);
